@@ -2,6 +2,7 @@
 
 <div align="center">
 
+![Last Commit](https://img.shields.io/github/last-commit/elyse502/student-performance-analysis?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
